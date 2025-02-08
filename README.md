@@ -105,13 +105,6 @@ export default {
 ```
 
 
-
-
-
-
-
-
-
 10.来到哪吒即可看到哪吒已经点亮。
 
-![image-20250208173721814](C:\Users\科技小岛\AppData\Roaming\Typora\typora-user-images\image-20250208173721814.png)
+![](https://images.2024921.xyz/images/202502081804188.png)

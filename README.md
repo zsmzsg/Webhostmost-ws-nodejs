@@ -58,7 +58,7 @@ Application startup file➡**app.js**
 
 ![](https://images.2024921.xyz/images/202502081759188.png)
 
-9.输入你的域名/sub即可获取节点。例如https://hezi.freewebhostmost.com/sub，如果你之前没有反代此域名请你用原域名，节点如下：
+9.输入你的域名/sub即可获取节点。例如    https://hezi.freewebhostmost.com/sub    如果你之前没有反代此域名请你用原域名，节点如下：
 
 `vless://b28f60af-d0b9-4ddf-baaa-7e49c93c380b@hezi.freewebhostmost.com:443?encryption=none&security=tls&sni=hezi.freewebhostmost.com&allowInsecure=1&type=ws&path=%2F#USA-webhostmost-GCP`
 
